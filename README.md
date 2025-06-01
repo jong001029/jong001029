@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&text=Hello%20Everyone!&animation=blink&fontColor=000000&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 저는 뭐든지 꿈꿀 수 있는 사람입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> ~~~ </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 책임감과 끈기를 가지고 주어진 일을 반드시 해내는 사람입니다. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 이를 바탕으로 항상 최고의 성과를 내기 위해 노력하며, 결국 해냅니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
